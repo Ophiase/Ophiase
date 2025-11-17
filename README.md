@@ -22,6 +22,7 @@ Initially captivated by computer graphics and algorithms, my academic journey ha
    - Expertise in multithreaded optimization and building CPU/GPU pipelines from scratch.  
 - 🌐 **Decentralized Finance & Blockchain Enthusiast**
    - Applied machine learning and data science to the Starknet ecosystem (web3/blockchain), winning three awards across two hackathons.
+   - Contributed to open-source projects in blockchain.
 
 
 ## 🏆 Highlights
@@ -34,3 +35,40 @@ Initially captivated by computer graphics and algorithms, my academic journey ha
 - **Researcher**: Explored the intersection of computer vision and medicine.
    - **Patent Pending**: Co-inventor on a pending patent for 3D reconstruction techniques in medical imaging.
    - **Private Research**: Contributed to MRI-specific machine learning applications.
+
+## 👷 Public Github Projects
+
+Some of my public projects spanning various domains:
+
+### Computer Vision, ML & Optimization
+- **[Emitter-Optimizer](https://github.com/Ophiase/Emitter-Optimizer)** (Tensorflow) 
+- **[Microorganism-Computer-Vision](https://github.com/Ophiase/Microorganism-Computer-Vision)** (OpenCV) 
+- **[Tumor-Classification-MA7CY070](https://github.com/Ophiase/Tumor-Classification-MA7CY070)**  (PyTorch)
+- **[NURBS-ML](https://github.com/Ophiase/NURBS-ML)**  
+- **[Radon-Transform-Study](https://github.com/Ophiase/Radon-Transform-Study)** 
+
+
+### Blockchain, ML & Data Science
+- **[Stochastic-Vector-Oracle-Consensus](https://github.com/Ophiase/Stochastic-Vector-Oracle-Consensus)**  
+- **[Astral-ZK-ML](https://github.com/Ophiase/Astral-ZK-ML)** 
+
+### Data Science
+- **[Variational Sparse Coding (VSC)](https://github.com/Ophiase/VSC-For-Sparse-VAE)**  
+- **[Information-Noise-Reduction-For-Investors](https://github.com/Ophiase/Information-Noise-Reduction-For-Investors)**  
+  Rational Inattention proof-of-concept using ML. 
+- **[Social-Group-Clustering](https://github.com/Ophiase/Social-Group-Clustering)**  
+- **[Community Identification Anthology](https://github.com/Ophiase/Community-Identification-For-Large-Network-IFECY070)**  
+- **[GNN-IFECY070](https://github.com/Ophiase/GNN-IFECY070)**  
+- **[NLP-Course-Notebooks](https://github.com/Ophiase/NLP-Course-Notebooks)**  
+
+### Data Engineering & Analysis
+- **[Big-Data-Project-IFEBY310](https://github.com/Ophiase/Big-Data-Project-IFEBY310)**  (PySpark, ETL, Parquet)  
+- **[DataBase-Project-IFEBY140](https://github.com/Ophiase/DataBase-Project-IFEBY140)**  (PostgreSQL, BCNF-normalized database)
+- **[Knowledge-Graph-IFNCY020](https://github.com/Ophiase/Knowledge-Graph-IFNCY020)**  (SparQL)  
+- **[Graph-DataBase-IFNCY020](https://github.com/Ophiase/Graph-DataBase-IFNCY020)**  (Neo4j and PostgreSQL) 
+- **[R Library (CA/MCA/CCA implementations)](https://github.com/Ophiase/EDA.HomeWork.III.MA7BY020)**
+
+### Low Level Development
+
+- **[Madara](https://github.com/madara-alliance/madara)**  (Rust Contributor)
+- **[Board-Game-CPP](https://github.com/Ophiase/Board-Game-CPP)**
