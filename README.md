@@ -54,9 +54,9 @@ Some of my public projects spanning various domains:
 
 ### Data Science
 - **[Mastodon News - AI/MLOPS Agentic](https://github.com/Ophiase/kafka-mlops-agent-pipeline)** (Kafka, Langchain, Kubernetes, Django, $\dots$)
-- **[Variational Sparse Coding (VSC)](https://github.com/Ophiase/VSC-For-Sparse-VAE)**  
+- **[Variational Sparse Coding for Sparse VAE](https://github.com/Ophiase/VSC-For-Sparse-VAE)** (PyTorch)
 - **[Information-Noise-Reduction-For-Investors](https://github.com/Ophiase/Information-Noise-Reduction-For-Investors)**  
-  Rational Inattention proof-of-concept using ML. 
+   Rational Inattention proof-of-concept using ML. 
 - **[Social-Group-Clustering](https://github.com/Ophiase/Social-Group-Clustering)**  
 - **[Community Identification Anthology](https://github.com/Ophiase/Community-Identification-For-Large-Network-IFECY070)**  
 - **[GNN-IFECY070](https://github.com/Ophiase/GNN-IFECY070)**  
