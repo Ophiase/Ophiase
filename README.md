@@ -64,6 +64,8 @@ Some of my public projects spanning various domains:
 
 ### Data Engineering & Analysis
 - **[Big-Data-Project-IFEBY310](https://github.com/Ophiase/Big-Data-Project-IFEBY310)**  (PySpark, ETL, Parquet)  
+- **[Predictive Valve Guardian](https://github.com/Ophiase/codra-predictive-valve-guardian)** (Sklearn, XGBoost, Streamlit)
+- **[Learn GCP ](https://github.com/Ophiase/learn-gcp)** (GCP, BigQuery, VertexAI)
 - **[DataBase-Project-IFEBY140](https://github.com/Ophiase/DataBase-Project-IFEBY140)**  (PostgreSQL, BCNF-normalized database)
 - **[Knowledge-Graph-IFNCY020](https://github.com/Ophiase/Knowledge-Graph-IFNCY020)**  (SparQL)  
 - **[Graph-DataBase-IFNCY020](https://github.com/Ophiase/Graph-DataBase-IFNCY020)**  (Neo4j and PostgreSQL) 
