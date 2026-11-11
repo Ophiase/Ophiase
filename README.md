@@ -58,61 +58,63 @@ systems into production.
 
 ## 👷 Public Github Projects
 
-Some of my public projects spanning various domains:
+Some of my public projects spanning various domains. ⭐ marks my current focus.
 
 ### Research
 
-- **[Eidographia](https://github.com/Ophiase/eidographia)** *(still private)* (Lean 4)
+- ⭐ **[Eidographia](https://github.com/Ophiase/eidographia)** *(still private)* (Lean 4)
 
-### Computer Vision, ML & Optimization
+### Computer Vision, Geometry & Optimization
 
-- **[Emitter-Optimizer](https://github.com/Ophiase/emitter-optimizer)** (JAX)
-- **[Congru](https://github.com/Ophiase/congru)** (Rust)
+- ⭐ **[Congru](https://github.com/Ophiase/congru)** (Rust)
   - Efficient rigid point cloud alignment with a confidence estimate.
-- **[Aisthesis](https://github.com/Ophiase/aisthesis)** *(still private)* (Rust)
+- ⭐ **[Aisthesis](https://github.com/Ophiase/aisthesis)** *(still private)* (Rust)
   - Medical diagnosis and follow-up: view your own scans, describe what you
   feel and where.
-- **[Microorganism-Computer-Vision](https://github.com/Ophiase/Microorganism-Computer-Vision)** *(in progress)* (OpenCV)
-- **[Tumor-Classification-MA7CY070](https://github.com/Ophiase/Tumor-Classification-MA7CY070)** (PyTorch)
-- **[NURBS-ML](https://github.com/Ophiase/NURBS-ML)**
-- **[Radon-Transform-Study](https://github.com/Ophiase/Radon-Transform-Study)**
+- ⭐ **[Emitter-Optimizer](https://github.com/Ophiase/emitter-optimizer)** (JAX)
+  - Parametric optimization of emitter positions.
+- **[Microorganism-Computer-Vision](https://github.com/Ophiase/Microorganism-Computer-Vision)** *(archived 2025)* (OpenCV)
+- **[Tumor-Classification-MA7CY070](https://github.com/Ophiase/Tumor-Classification-MA7CY070)** *(archived 2025)* (PyTorch)
+- **[NURBS-ML](https://github.com/Ophiase/NURBS-ML)** *(archived 2025)*
+- **[Radon-Transform-Study](https://github.com/Ophiase/Radon-Transform-Study)** *(archived 2025)*
 
-### Blockchain, ML & Data Science
+### AI Systems, Agents & Machine Learning
 
-- **[Stochastic-Vector-Oracle-Consensus](https://github.com/Ophiase/Stochastic-Vector-Oracle-Consensus)**
-- **[Astral-ZK-ML](https://github.com/Ophiase/Astral-ZK-ML)**
-
-### AI Systems, NLP & Machine Learning
-
-- **[Top-Annotator](https://github.com/Ophiase/top-annotator)** *(still private)* (Python, Textual)
+- ⭐ **[Top-Annotator](https://github.com/Ophiase/top-annotator)** *(still private)* (Python, Textual)
   - Terminal process viewer with an audit column, shared between a human and
   an AI agent.
-- **[Kafka-MLOps-Agent-Pipeline](https://github.com/Ophiase/kafka-mlops-agent-pipeline)** (Kafka, LangGraph, Helm)
+- ⭐ **[Azz](https://github.com/Ophiase/azz)** (Python, Azure CLI)
+  - CLI helper for Azure DevOps work item management. Natively agentic.
+- **[Kafka-MLOps-Agent-Pipeline](https://github.com/Ophiase/kafka-mlops-agent-pipeline)** *(archived 2025)* (Kafka, LangGraph, Helm)
   - Event-driven LLM stream processing, from Docker Compose to Kubernetes.
-- **[Variational Sparse Coding for Sparse VAE](https://github.com/Ophiase/VSC-For-Sparse-VAE)** (PyTorch)
-- **[Information-Noise-Reduction-For-Investors](https://github.com/Ophiase/Information-Noise-Reduction-For-Investors)**
+- **[Variational Sparse Coding for Sparse VAE](https://github.com/Ophiase/VSC-For-Sparse-VAE)** *(archived 2025)* (PyTorch)
+- **[Information-Noise-Reduction-For-Investors](https://github.com/Ophiase/Information-Noise-Reduction-For-Investors)** *(archived 2024)*
   - Rational Inattention proof-of-concept using Machine Learning.
-- **[Social-Group-Clustering](https://github.com/Ophiase/Social-Group-Clustering)**
-- **[Community Identification Anthology](https://github.com/Ophiase/Community-Identification-For-Large-Network-IFECY070)**
-- **[GNN-IFECY070](https://github.com/Ophiase/GNN-IFECY070)**
-- **[NLP-Course-Notebooks](https://github.com/Ophiase/NLP-Course-Notebooks)**
+- **[Social-Group-Clustering](https://github.com/Ophiase/Social-Group-Clustering)** *(archived 2024)*
+- **[Community Identification Anthology](https://github.com/Ophiase/Community-Identification-For-Large-Network-IFECY070)** *(archived 2025)*
+- **[GNN-IFECY070](https://github.com/Ophiase/GNN-IFECY070)** *(archived 2025)*
+- **[NLP-Course-Notebooks](https://github.com/Ophiase/NLP-Course-Notebooks)** *(archived 2025)*
+
+### Blockchain & zkML
+
+- **[Astral-ZK-ML](https://github.com/Ophiase/Astral-ZK-ML)** *(archived 2024)* (ETH Brussels)
+  - Decentralized machine learning protocol.
+- **[Stochastic-Vector-Oracle-Consensus](https://github.com/Ophiase/Stochastic-Vector-Oracle-Consensus)** *(archived 2024)* (StarkHack)
+  - On-chain consensus over machine learning predictions from multiple oracles.
 
 ### Data Engineering & Analytics
 
-- **[Big-Data-Project-IFEBY310](https://github.com/Ophiase/Big-Data-Project-IFEBY310)** (PySpark, ETL, Parquet)
-- **[Predictive Valve Guardian](https://github.com/Ophiase/codra-predictive-valve-guardian)** (Scikit-Learn, XGBoost, Streamlit)
-- **[Learn GCP](https://github.com/Ophiase/learn-gcp)** (GCP, BigQuery, VertexAI)
-- **[DataBase-Project-IFEBY140](https://github.com/Ophiase/DataBase-Project-IFEBY140)** (PostgreSQL, BCNF-normalized database)
-- **[Knowledge-Graph-IFNCY020](https://github.com/Ophiase/Knowledge-Graph-IFNCY020)** (SPARQL)
-- **[Graph-DataBase-IFNCY020](https://github.com/Ophiase/Graph-DataBase-IFNCY020)** (Neo4j, PostgreSQL)
-- **[R Library (CA/MCA/CCA implementations)](https://github.com/Ophiase/EDA.HomeWork.III.MA7BY020)**
+- **[Big-Data-Project-IFEBY310](https://github.com/Ophiase/Big-Data-Project-IFEBY310)** *(archived 2024)* (PySpark, ETL, Parquet)
+- **[Predictive Valve Guardian](https://github.com/Ophiase/predictive-valve-guardian)** *(archived 2026)*
+  (Scikit-Learn, XGBoost, Streamlit)
+- **[Learn GCP](https://github.com/Ophiase/learn-gcp)** *(archived 2025)* (GCP, BigQuery, VertexAI)
+- **[DataBase-Project-IFEBY140](https://github.com/Ophiase/DataBase-Project-IFEBY140)** *(archived 2024)*
+  (PostgreSQL, BCNF-normalized database)
+- **[Knowledge-Graph-IFNCY020](https://github.com/Ophiase/Knowledge-Graph-IFNCY020)** *(archived 2025)* (SPARQL)
+- **[Graph-DataBase-IFNCY020](https://github.com/Ophiase/Graph-DataBase-IFNCY020)** *(archived 2025)* (Neo4j, PostgreSQL)
+- **[R Library (CA/MCA/CCA implementations)](https://github.com/Ophiase/EDA.HomeWork.III.MA7BY020)** *(archived 2024)*
 
-### Developer Tools
-
-- **[Azz](https://github.com/Ophiase/azz)** (Python, Azure CLI)
-  - CLI helper for Azure DevOps work item management. Natively agentic.
-
-### Low-Level Development
+### Systems & Low-Level Development
 
 - **[Madara](https://github.com/madara-alliance/madara)** (Rust Contributor)
-- **[Board-Game-CPP](https://github.com/Ophiase/Board-Game-CPP)**
+- **[Board-Game-CPP](https://github.com/Ophiase/Board-Game-CPP)** *(archived 2024)* (C++)
