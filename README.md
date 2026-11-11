@@ -68,7 +68,7 @@ Some of my public projects spanning various domains:
 
 - **[Congru](https://github.com/Ophiase/congru)** (Rust)
   - Efficient rigid point cloud alignment with a confidence estimate.
-- **[Aisthesis](https://github.com/Ophiase/aisthesis)** *(Work in Progress)* (Rust)
+- **[Aisthesis](https://github.com/Ophiase/aisthesis)** *(still private)* (Rust)
   - Medical diagnosis and follow-up: view your own scans, describe what you
   feel and where.
 - **[Emitter-Optimizer](https://github.com/Ophiase/emitter-optimizer)** (JAX)
@@ -84,7 +84,7 @@ Some of my public projects spanning various domains:
 
 ### AI Systems, NLP & Machine Learning
 
-- **[Top-Annotator](https://github.com/Ophiase/top-annotator)** (Python, Textual)
+- **[Top-Annotator](https://github.com/Ophiase/top-annotator)** (Python, Textual, still privates)
   - Terminal process viewer with an audit column, shared between a human and
   an AI agent.
 - **[Mastodon News - AI/MLOPS Agentic](https://github.com/Ophiase/kafka-mlops-agent-pipeline)**
