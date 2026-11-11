@@ -62,7 +62,7 @@ Some of my public projects spanning various domains:
 
 ### Research
 
-- **[Eidographia](https://github.com/Ophiase/eidographia)** *(still Private)* (Lean 4)
+- **[Eidographia](https://github.com/Ophiase/eidographia)** *(still private)* (Lean 4)
 
 ### Computer Vision, ML & Optimization
 
@@ -72,7 +72,7 @@ Some of my public projects spanning various domains:
 - **[Aisthesis](https://github.com/Ophiase/aisthesis)** *(still private)* (Rust)
   - Medical diagnosis and follow-up: view your own scans, describe what you
   feel and where.
-- **[Microorganism-Computer-Vision](https://github.com/Ophiase/Microorganism-Computer-Vision)** *(still in Progress)* (OpenCV)
+- **[Microorganism-Computer-Vision](https://github.com/Ophiase/Microorganism-Computer-Vision)** *(in progress)* (OpenCV)
 - **[Tumor-Classification-MA7CY070](https://github.com/Ophiase/Tumor-Classification-MA7CY070)** (PyTorch)
 - **[NURBS-ML](https://github.com/Ophiase/NURBS-ML)**
 - **[Radon-Transform-Study](https://github.com/Ophiase/Radon-Transform-Study)**
@@ -84,11 +84,11 @@ Some of my public projects spanning various domains:
 
 ### AI Systems, NLP & Machine Learning
 
-- **[Top-Annotator](https://github.com/Ophiase/top-annotator)** (Python, Textual, still unpublished)
+- **[Top-Annotator](https://github.com/Ophiase/top-annotator)** *(still private)* (Python, Textual)
   - Terminal process viewer with an audit column, shared between a human and
   an AI agent.
-- **[Mastodon News - AI/MLOPS Agentic](https://github.com/Ophiase/kafka-mlops-agent-pipeline)**
-(Kafka, LangChain, Kubernetes, Django, ...)
+- **[Kafka-MLOps-Agent-Pipeline](https://github.com/Ophiase/kafka-mlops-agent-pipeline)** (Kafka, LangGraph, Helm)
+  - Event-driven LLM stream processing, from Docker Compose to Kubernetes.
 - **[Variational Sparse Coding for Sparse VAE](https://github.com/Ophiase/VSC-For-Sparse-VAE)** (PyTorch)
 - **[Information-Noise-Reduction-For-Investors](https://github.com/Ophiase/Information-Noise-Reduction-For-Investors)**
   - Rational Inattention proof-of-concept using Machine Learning.
