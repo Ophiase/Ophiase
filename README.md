@@ -1,4 +1,6 @@
-# Aaron ~ Ophiase
+# Phorcys (@Ophiase)
+
+[![Kanon](https://img.shields.io/badge/%3C%3E-Kanon-blueviolet.svg)](.agents/kanon.md)
 
 > *Forever wandering the depths of phenomenological awareness.*
 
@@ -60,7 +62,12 @@ Some of my public projects spanning various domains:
 
 ### Computer Vision, ML & Optimization
 
-- **[Emitter-Optimizer](https://github.com/Ophiase/Emitter-Optimizer)** (Tensorflow)
+- **[Congru](https://github.com/Ophiase/congru)** (Rust)
+  - Efficient rigid point cloud alignment with a confidence estimate.
+- **[Aisthesis](https://github.com/Ophiase/aisthesis)** *(Work in Progress)* (Rust)
+  - Medical diagnosis and follow-up: view your own scans, describe what you
+  feel and where.
+- **[Emitter-Optimizer](https://github.com/Ophiase/emitter-optimizer)** (JAX)
 - **[Microorganism-Computer-Vision](https://github.com/Ophiase/Microorganism-Computer-Vision)** *(Work in Progress)* (OpenCV)
 - **[Tumor-Classification-MA7CY070](https://github.com/Ophiase/Tumor-Classification-MA7CY070)** (PyTorch)
 - **[NURBS-ML](https://github.com/Ophiase/NURBS-ML)**
@@ -73,6 +80,9 @@ Some of my public projects spanning various domains:
 
 ### AI Systems, NLP & Machine Learning
 
+- **[Top-Annotator](https://github.com/Ophiase/top-annotator)** (Python, Textual)
+  - Terminal process viewer with an audit column, shared between a human and
+  an AI agent.
 - **[Mastodon News - AI/MLOPS Agentic](https://github.com/Ophiase/kafka-mlops-agent-pipeline)**
 (Kafka, LangChain, Kubernetes, Django, ...)
 - **[Variational Sparse Coding for Sparse VAE](https://github.com/Ophiase/VSC-For-Sparse-VAE)** (PyTorch)
