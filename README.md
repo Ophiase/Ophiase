@@ -60,6 +60,10 @@ systems into production.
 
 Some of my public projects spanning various domains:
 
+### Research
+
+- **[Eidographia](https://github.com/Ophiase/eidographia)** *(still Private)* (Lean 4)
+
 ### Computer Vision, ML & Optimization
 
 - **[Congru](https://github.com/Ophiase/congru)** (Rust)
@@ -102,6 +106,11 @@ Some of my public projects spanning various domains:
 - **[Knowledge-Graph-IFNCY020](https://github.com/Ophiase/Knowledge-Graph-IFNCY020)** (SPARQL)
 - **[Graph-DataBase-IFNCY020](https://github.com/Ophiase/Graph-DataBase-IFNCY020)** (Neo4j, PostgreSQL)
 - **[R Library (CA/MCA/CCA implementations)](https://github.com/Ophiase/EDA.HomeWork.III.MA7BY020)**
+
+### Developer Tools
+
+- **[Azz](https://github.com/Ophiase/azz)** (Python, Azure CLI)
+  - CLI helper for Azure DevOps work item management.
 
 ### Low-Level Development
 
