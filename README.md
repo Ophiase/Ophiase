@@ -80,7 +80,7 @@ Some of my public projects spanning various domains. ⭐ marks my current focus.
 
 ### AI Systems, Agents & Machine Learning
 
-- ⭐ **[Top-Annotator](https://github.com/Ophiase/top-annotator)** *(still private)* (Python, Textual)
+- ⭐ **[Top-Annotator](https://github.com/Ophiase/top-annotator)** (Python, Textual)
   - Terminal process viewer with an audit column, shared between a human and
   an AI agent.
 - ⭐ **[Azz](https://github.com/Ophiase/azz)** (Python, Azure CLI)
