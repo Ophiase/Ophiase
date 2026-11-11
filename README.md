@@ -1,4 +1,4 @@
-# Phorcys ~ Aaron (@Ophiase)
+# 🌊 Phorcys ~ Aaron (@Ophiase)
 
 [![Kanon](https://img.shields.io/badge/%3C%3E-Kanon-blueviolet.svg)](.agents/kanon.md)
 
