@@ -62,28 +62,28 @@ Some of my public projects spanning various domains. ⭐ marks my current focus.
 
 ### Research
 
-- ⭐ **[Eidographia](https://github.com/Ophiase/eidographia)** *(still private)* (Lean 4)
+- ⭐ `<>` **[Eidographia](https://github.com/Ophiase/eidographia)** *(still private)* (Lean 4)
 
 ### Computer Vision, Geometry & Optimization
 
-- ⭐ **[Congru](https://github.com/Ophiase/congru)** (Rust)
+- ⭐ `<>` **[Congru](https://github.com/Ophiase/congru)** (Rust)
   - Efficient rigid point cloud alignment with a confidence estimate.
-- ⭐ **[Aisthesis](https://github.com/Ophiase/aisthesis)** *(still private)* (Rust)
+- ⭐ `<>` **[Aisthesis](https://github.com/Ophiase/aisthesis)** *(still private)* (Rust)
   - Medical diagnosis and follow-up: view your own scans, describe what you
   feel and where.
-- ⭐ **[Emitter-Optimizer](https://github.com/Ophiase/emitter-optimizer)** (JAX)
+- ⭐ `<>` **[Emitter-Optimizer](https://github.com/Ophiase/emitter-optimizer)** (JAX)
   - Parametric optimization of emitter positions.
-- **[Microorganism-Computer-Vision](https://github.com/Ophiase/Microorganism-Computer-Vision)** *(archived 2025)* (OpenCV)
+- `<>` **[Microorganism-Computer-Vision](https://github.com/Ophiase/Microorganism-Computer-Vision)** (OpenCV)
 - **[Tumor-Classification-MA7CY070](https://github.com/Ophiase/Tumor-Classification-MA7CY070)** *(archived 2025)* (PyTorch)
 - **[NURBS-ML](https://github.com/Ophiase/NURBS-ML)** *(archived 2025)*
 - **[Radon-Transform-Study](https://github.com/Ophiase/Radon-Transform-Study)** *(archived 2025)*
 
 ### AI Systems, Agents & Machine Learning
 
-- ⭐ **[Top-Annotator](https://github.com/Ophiase/top-annotator)** (Python, Textual)
+- ⭐ `<>` **[Top-Annotator](https://github.com/Ophiase/top-annotator)** (Python, Textual)
   - Terminal process viewer with an audit column, shared between a human and
   an AI agent.
-- ⭐ **[Azz](https://github.com/Ophiase/azz)** (Python, Azure CLI)
+- ⭐ `<>` **[Azz](https://github.com/Ophiase/azz)** (Python, Azure CLI)
   - CLI helper for Azure DevOps work item management. Natively agentic.
 - **[Kafka-MLOps-Agent-Pipeline](https://github.com/Ophiase/kafka-mlops-agent-pipeline)** *(archived 2025)* (Kafka, LangGraph, Helm)
   - Event-driven LLM stream processing, from Docker Compose to Kubernetes.
