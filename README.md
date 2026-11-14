@@ -118,3 +118,8 @@ Some of my public projects spanning various domains. ⭐ marks my current focus.
 
 - **[Madara](https://github.com/madara-alliance/madara)** (Rust Contributor)
 - **[Board-Game-CPP](https://github.com/Ophiase/Board-Game-CPP)** *(archived 2024)* (C++)
+
+### Tools
+
+- `<>` **[Nama](https://github.com/Ophiase/nama)** (JavaScript, Obsidian)
+  - Name the URLs of a selection, strip the noise from their titles.
