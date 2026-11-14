@@ -60,10 +60,6 @@ systems into production.
 
 Some of my public projects spanning various domains. ⭐ marks my current focus.
 
-### Research
-
-- ⭐ `<>` **[Eidographia](https://github.com/Ophiase/eidographia)** *(still private)* (Lean 4)
-
 ### Computer Vision, Geometry & Optimization
 
 - ⭐ `<>` **[Congru](https://github.com/Ophiase/congru)** (Rust)
@@ -123,3 +119,7 @@ Some of my public projects spanning various domains. ⭐ marks my current focus.
 
 - `<>` **[Nama](https://github.com/Ophiase/nama)** (JavaScript, Obsidian)
   - Name the URLs of a selection, strip the noise from their titles.
+
+### Research
+
+- ⭐ `<>` **[Eidographia](https://github.com/Ophiase/eidographia)** *(still private)* (Lean 4)
