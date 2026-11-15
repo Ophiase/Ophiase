@@ -100,9 +100,10 @@ Some of my public projects spanning various domains. ⭐ marks my current focus.
 
 ### Data Engineering & Analytics
 
+- `<>` **[Predictive Valve Guardian](https://github.com/Ophiase/predictive-valve-guardian)** (FastAPI, ONNX, MLflow)
+  - Cycle-by-cycle valve condition from pressure and flow, served by a typed
 - **[Big-Data-Project-IFEBY310](https://github.com/Ophiase/Big-Data-Project-IFEBY310)** *(archived 2024)* (PySpark, ETL, Parquet)
-- **[Predictive Valve Guardian](https://github.com/Ophiase/predictive-valve-guardian)** *(archived 2026)*
-  (Scikit-Learn, XGBoost, Streamlit)
+  API.
 - **[Learn GCP](https://github.com/Ophiase/learn-gcp)** *(archived 2025)* (GCP, BigQuery, VertexAI)
 - **[DataBase-Project-IFEBY140](https://github.com/Ophiase/DataBase-Project-IFEBY140)** *(archived 2024)*
   (PostgreSQL, BCNF-normalized database)
