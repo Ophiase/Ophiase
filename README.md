@@ -118,7 +118,7 @@ Some of my public projects spanning various domains. ⭐ marks my current focus.
 
 ### Tools
 
-- `<>` **[Nama](https://github.com/Ophiase/nama)** (JavaScript, Obsidian)
+- `<>` **[Nama](https://github.com/Ophiase/nama)** (Typescript, Obsidian)
   - Name the URLs of a selection, strip the noise from their titles.
 
 ### Research
