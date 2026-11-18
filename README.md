@@ -58,7 +58,7 @@ systems into production.
 
 ## 👷 Public Github Projects
 
-Some of my public projects spanning various domains. ⭐ marks my current focus.
+Some of my public projects spanning various domains.
 
 ### Computer Vision, Geometry & Optimization
 
@@ -102,8 +102,8 @@ Some of my public projects spanning various domains. ⭐ marks my current focus.
 
 - `<>` **[Predictive Valve Guardian](https://github.com/Ophiase/predictive-valve-guardian)** (FastAPI, ONNX, MLflow)
   - Cycle-by-cycle valve condition from pressure and flow, served by a typed
-- **[Big-Data-Project-IFEBY310](https://github.com/Ophiase/Big-Data-Project-IFEBY310)** *(archived 2024)* (PySpark, ETL, Parquet)
   API.
+- **[Big-Data-Project-IFEBY310](https://github.com/Ophiase/Big-Data-Project-IFEBY310)** *(archived 2024)* (PySpark, ETL, Parquet)
 - **[Learn GCP](https://github.com/Ophiase/learn-gcp)** *(archived 2025)* (GCP, BigQuery, VertexAI)
 - **[DataBase-Project-IFEBY140](https://github.com/Ophiase/DataBase-Project-IFEBY140)** *(archived 2024)*
   (PostgreSQL, BCNF-normalized database)
@@ -120,7 +120,13 @@ Some of my public projects spanning various domains. ⭐ marks my current focus.
 
 - `<>` **[Nama](https://github.com/Ophiase/nama)** (Typescript, Obsidian)
   - Name the URLs of a selection, strip the noise from their titles.
+- `<>` **[Git-Follow](https://github.com/Ophiase/git-follow)** (Typescript, Obsidian)
+  - Point the Git plugin at the repository of the active note, in a vault
+  that holds several.
+- `<>` `◉` **[Ganglion](https://github.com/Ophiase/ganglion)** (Standard, Obsidian)
+  - A project's small brain: the part it exposes to a second brain, readable
+  without Obsidian, pluggable into it. Itself a ganglion.
 
 ### Research
 
-- ⭐ `<>` **[Eidographia](https://github.com/Ophiase/eidographia)** *(still private)* (Lean 4)
+- ⭐ `<>` `◉` **[Eidographia](https://github.com/Ophiase/eidographia)** *(still private)* (Lean 4)
