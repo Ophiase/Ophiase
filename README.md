@@ -64,7 +64,7 @@ Some of my public projects spanning various domains.
 
 - ⭐ `<>` **[Congru](https://github.com/Ophiase/congru)** (Rust)
   - Efficient rigid point cloud alignment with a confidence estimate.
-- ⭐ `<>` **[Aisthesis](https://github.com/Ophiase/aisthesis)** *(still private)* (Rust)
+- ⭐ `<>` `◉` **[Aisthesis](https://github.com/Ophiase/aisthesis)** *(still private)* (Rust)
   - Medical diagnosis and follow-up: view your own scans, describe what you
   feel and where.
 - ⭐ `<>` **[Emitter-Optimizer](https://github.com/Ophiase/emitter-optimizer)** (JAX)
