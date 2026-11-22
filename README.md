@@ -123,9 +123,9 @@ Some of my public projects spanning various domains.
 - `<>` **[Git-Follow](https://github.com/Ophiase/git-follow)** (Typescript, Obsidian)
   - Point the Git plugin at the repository of the active note, in a vault
   that holds several.
-- `<>` `◉` **[Ganglion](https://github.com/Ophiase/ganglion)** (Standard, Obsidian)
+- `<>` `◉` **[Pinax](https://github.com/Ophiase/pinax)** (Standard, Obsidian)
   - A project's small brain: the part it exposes to a second brain, readable
-  without Obsidian, pluggable into it. Itself a ganglion.
+  without Obsidian, pluggable into it. Itself a pinax.
 
 ### Research
 
